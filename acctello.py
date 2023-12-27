@@ -108,3 +108,4 @@ class AccTello:
             cv2.imwrite(fn, self.frame_read.frame) #画像保存
             time.sleep(PIC_INT) #指定秒数待機
 
+
